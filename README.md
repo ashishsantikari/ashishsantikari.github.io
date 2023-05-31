@@ -16,15 +16,14 @@
   <a href="https://www.linkedin.com/in/asantikari/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-  <a href="https://www.instagram.com/_stoned_traveler_/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-  <a href="mailto:hi@ashishsantikari.info?Subject=Hello%20There!!&Body=Hi!%0AI%20saw%20your%20profile%20on%20GitHub%0A.">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  
   <a href="https://blog.ashishsantikari.info">
   <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
-   
+
+  <a href="mailto:hi@ashishsantikari.info?Subject=Hello%20There!!&Body=Hi!%0AI%20saw%20your%20profile%20on%20GitHub%0A.">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+    
+  <a href="https://www.instagram.com/_stoned_traveler_/" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-F77737?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 
 ---
